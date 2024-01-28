@@ -1,0 +1,165 @@
+Astronomi ve Uzay Terimleri Sözlüğü
+
+Yazar(lar):
+	H. A. Güler
+=====================================================
+
+*: kullanımıyla karşılaşmayıp kendi yaptığım öneriler
+(!): kullanılması tercih edilmemeli
+
+-- Directions / Yönler
+----------------------------------------------------
+azimuth = azimut
+elevation = yükselim, elevasyon(!)*
+right ascension = sağ açıklık
+declination = dik açıklık
+prograde = ileriyön*, önyön*, prograd(!)*
+retrograde = geriyön*, arkayön*, retrograd(!)*
+normal = normal
+antinormal = antinormal, tersnormal*
+zenith = başucu, engök*, zirve*
+nadir = ayakucu, enyer*
+
+-- Fields of Astronomy / Astronomi Alanları
+----------------------------------------------------
+Astrometry: Astrometri
+Astrophysics: Astrofizik
+Astrochemistry: Astrokimya
+Astrobiology: Astrobiyoloji
+High Energy = Yüksek Enerji(-li)
+Space Environment = Uzay Çevresi*
+Space Weather = Uzay İklimi
+
+Not: 'weather' normalde hava durumu için kullanılır, hava durumu ve iklim farklı şeylerdir. 
+Ancak 'uzay hava durumu' ya da 'uzay havası' güzel bir terim gibi gelmedi.
+
+-- Orbit / Yörünge
+----------------------------------------------------
+semimajor axis = yarı büyük eksen
+semiminor axis = yarı küçük eksen
+
+eccentricity = dışmerkezlilik, eksantriklik, eksen kayıklığı*
+inclination = eğilim, eğiklik, eğim, meyil
+
+ascending node = yükselim noktası*
+descending node = alçalım noktası*
+
+longitude = boylam
+latitude = enlem
+
+node = nokta*, nod*
+
+periapsis = enberi
+apoapsis = enöte
+
+perihelion = günberi
+apohelion = günöte
+
+perigee = yerberi
+apogee = yeröte
+
+opposition = karşıtlık
+
+-- Light / Işık, Observation / Gözlem, Photography / Fotoğrafçılık
+----------------------------------------------------
+magnitude = kadir
+luminosity = parlaklık
+flux = akı
+apparent = görünür
+exposure = poz, poz süresi
+focal = odaksal
+focus = odak
+infrared (IR) = kızılötesi, kızılberisi*
+ultraviolet (UV) = morötesi
+ray = ışın
+emission = yayma, emisyon(!)*
+radiation = ışıma, radyasyon
+apparition = belirme*, görünme*
+burst = parlama*
+
+-- Classification / Sınıflandırma
+----------------------------------------------------
+body = cisim, nesne
+object = nesne, obje, cisim
+
+NOT!!: 'Body' ve 'object' arasındaki farka dikkat edilmeli. 'Body' tek ve bütün bir hacme sahip 
+objeler için kullanılır, gezegenler gibi. 'Object' biraz daha özgürlükçü bir kelime, galaksiler gibi
+tek parça olmayan objeler için de kullanılabilir. Türkçe karşılıkları ise gördüğüm kadarıyla
+bu kadar kısıtlayıcı değil, birbiri yerine kullanılmasında sakınca görmüyorum.
+
+Near Earth Object = Dünya'ya Yakın Cisim*
+asteroid = göktaşı, asteroit
+meteoroid = meteor
+micrometeoroid = mikrometeor
+Centaur = Sentar*, Sentaur*
+Sednoid = Sednoit*, Sednosal*
+trans-Neptunian object = Neptünötesi cisim*
+Plutoid = Plütoit*, Plütosal*
+Trojan = Truvalı, Trojan
+belt = kuşak, kemer*
+cliff = uçurum
+cloud = bulut
+interstellar = yıldızlararası
+planet = gezegen
+terrestrial = karasal
+gas giant = gaz devi
+ice giant = buz devi
+small Solar System object = küçük Güneş Sistemi cismi
+minor planet = küçük gezegen*
+minimum orbit intersect distance (MOID) = minimum(/en yakın) yörünge kesişim uzaklığı
+resonance = rezonans
+
+dwarf = cüce
+main-sequence = ana sekans, ana çağ*
+super- = süper-
+hyper- = hiper-
+sub-stellar = yıldızaltı*
+neutron = nötron
+quark = kuark
+strange = tuhaf
+black hole = karadelik
+pulsar = atarca, pulsar
+pulse = atım
+
+Not: Yıldız renkleri normal renk çevirisi gibi çevirilebilir.
+Örneğin 'brown dwarf' = 'kahverengi cüce'.
+
+spiral = spiral
+elliptical = eliptik
+featureless = yalın
+merger = birleşim*
+disturbed = bozulmuş*
+interaction = etkileşim
+
+nebula = bulutsu, nebula
+constellation = takımyıldız
+formation = oluşum*, formasyon(!)
+disk = disk
+proto- = ön-, erken-
+cluster = küme
+nova = nova
+
+-- Misc. / Çeşitli Diğer
+----------------------------------------------------
+relative = göreli, göreceli
+absolute = mutlak
+impact = çarpışma
+collision = çarpışma
+atmospheric entry = atmosfere giriş
+atmospheric reentry = atmosfere yeniden giriş
+aerobraking = havafreni*, atmofren*, atmofrenleme*
+lithobraking = karafrenleme*, yerfreni*
+
+Not: 'lithobraking' genelde güldürü amacıyla kullanılan bir terim. Yavaşlayamayıp kaza yapma şeklinde inen uzay araçları için kullanılıyor.
+
+splashdown = su inişi*, deniz inişi*
+
+Not: 'splashdown' kelimesinde aslında suya (H2O) herhangi bir atıf yok. Başka bir 
+akışkandan oluşan bir gölete/denize/okyanusa inmek de 'splashdown' sayılabilir.
+
+exposure = maruziyet, maruz bırakma, maruz kalma
+
+Not: bu 'exposure' ve fotoğraf çekilirken kullanılan 'exposure' kelimesini ayrı tuttum. O yüzden sözlükte iki farklı 'exposure' var. Bu 'exposure'
+exposure deneyleri vs. için, "uzay ortamına maruz bırakmak", "gamma ışınlarına maruz kalmak" gibi.
+
+maneuver = manevra
